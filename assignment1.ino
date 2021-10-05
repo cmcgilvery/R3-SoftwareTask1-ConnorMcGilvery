@@ -61,8 +61,8 @@ void loop()
 {
   int potval = analogRead(A0); //reads voltage from potentiometer into potval variable
   int decimalval = potval/10.333 ;//scales potentiometer value to be between 0-99 
-  int firstdigit = decimalval%(10); //obtains the digit to be printed to the first sseg
-  int seconddigit = (decimalval - firstdigit)/10; //obtains the digit to be printed to the second sseg
+  int firstdigit = decimalval%(10); //obtains the digit to be printed to the first 7 seg
+  int seconddigit = (decimalval - firstdigit)/10; //obtains the digit to be printed to the second 7 seg
   int firstdigitbinary[4];// array that represents the first digit in binary
   int seconddigitbinary[4];// array that represents the second digit in binary
  
