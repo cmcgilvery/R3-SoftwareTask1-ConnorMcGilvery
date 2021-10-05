@@ -10,4 +10,5 @@ and seconddigitbinary arrays. These arrays are then written to the ports 2-9 whe
 index of the arrays would be written to 1 port. Ports 2-5 represent the first digit and
 ports 6-9 represent the second.
 
-https://www.tinkercad.com/things/llB9GLq7Ru9-magnificent-leelo-hango/editel?sharecode=Ng-2Qij0nuLlrwaiD_1QwnYDtus5gQ2KFt5FrScwmjg
+https://www.tinkercad.com/things/llB9GLq7Ru9
+
